@@ -5,6 +5,7 @@
 As bases de dados selecionadas para o presente relatório foram extraídas a partir de repositório do GitHub contendo dados referentes ao COVID-19. Dentre as opções, as bases selecionadas foram:
 
 <b>Vacinação por faixa etária</b> ( https://github.com/owid/covid-19-data/blob/master/public/data/vaccinations/vaccinations-by-age-group.csv );
+
 <b>Hospitalizações por COVID-19</b> ( https://github.com/owid/covid-19-data/blob/master/public/data/hospitalizations/covid-hospitalizations.csv ).
 
 <h2>Arquivos:</h2>
