@@ -633,7 +633,7 @@ plt.show()
 # Boxplot Grupo2
 plt.figure(figsize=(6, 6))
 sns.boxplot(data=[Grupo2['people_fully_vaccinated_per_hundred']], width=0.3)
-plt.xticks([0], ['Grupo 1'])
+plt.xticks([0], ['Grupo 2'])
 plt.title('Boxplot - 60 à 69')
 plt.show()
 
